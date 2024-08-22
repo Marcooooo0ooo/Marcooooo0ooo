@@ -1,16 +1,32 @@
-## Hi there 👋
+# <div align="center">Marco_ Developer</div>  
 
-<!--
-**Marcooooo0ooo/Marcooooo0ooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* :tools: Currently Developer on [PixelTime](https://discord.gg/MUmMTZJ6PY)
+* :envelope: If you want to contact me:  [Discord](https://discord.com/users/707630880373604373)
+* :dart: Learning CSS, Java
 
-Here are some ideas to get you started:
+ ## :zap:Languages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Front-end Development <br>
+[![](https://skillicons.dev/icons?i=js,html&perline=3)](https://skillicons.dev)
+
+* Back-end Development <br>
+[![](https://skillicons.dev/icons?i=nodejs&perline=3)](https://skillicons.dev)
+
+* Databases <br>
+[![](https://skillicons.dev/icons?i=mongodb,mysql&perline=3)](https://skillicons.dev)
+
+- Application Development <br>
+[![](https://skillicons.dev/icons?i=swift&perline=3)](https://skillicons.dev)
+
+- Project Management <br>
+[![](https://skillicons.dev/icons?i=github,git&perline=3)](https://skillicons.dev)
+
+- Text Editors/IDEs <br> <br>
+[![](https://skillicons.dev/icons?i=vscode&perline=3)](https://skillicons.dev)
+
+- Social <br> <br>
+[![](https://skillicons.dev/icons?i=discord,instagram&perline=3)](https://skillicons.dev)
+
+
+![Marco's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Marcooooo0ooo&show_icons=true&theme=algolia ) <br>
+Contact Me: [Discord](https://discord.com/users/707630880373604373) 
