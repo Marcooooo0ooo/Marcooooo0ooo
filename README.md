@@ -1,8 +1,8 @@
 # <div align="center">Marco_ Developer</div>  
 
-* :tools: Currently Developer on [PixelTime](https://discord.gg/MUmMTZJ6PY)
-* :envelope: If you want to contact me:  [Discord](https://discord.com/users/707630880373604373)
-* :dart: Learning CSS, Java
+* 🛠️ Currently Developer on [PixelTime](https://discord.gg/MUmMTZJ6PY)
+* ✉️ If you want to contact me:  [Discord](https://discord.com/users/707630880373604373)
+* 🎯 Learning CSS, Java
 
  ## :zap:Languages
 
