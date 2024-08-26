@@ -29,4 +29,5 @@
 
 
 ![Marco's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Marcooooo0ooo&show_icons=true&theme=algolia ) <br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcooooo0ooo&layout=compact&theme=algolia) <br>
 Contact Me: [Discord](https://discord.com/users/707630880373604373) 
