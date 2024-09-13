@@ -7,25 +7,25 @@
  ## :zap:Languages
 
 * Front-end Development <br>
-[![](https://skillicons.dev/icons?i=js,html&perline=3)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=js,html&perline=3)](https://discord.com/users/707630880373604373)
 
 * Back-end Development <br>
-[![](https://skillicons.dev/icons?i=nodejs&perline=3)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=nodejs&perline=3)](https://discord.com/users/707630880373604373)
 
 * Databases <br>
-[![](https://skillicons.dev/icons?i=mongodb,mysql&perline=3)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=mongodb,mysql&perline=3)](https://discord.com/users/707630880373604373)
 
 - Application Development <br>
-[![](https://skillicons.dev/icons?i=swift&perline=3)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=swift&perline=3)](https://discord.com/users/707630880373604373)
 
 - Project Management <br>
-[![](https://skillicons.dev/icons?i=github,git&perline=3)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=github,git&perline=3)](https://discord.com/users/707630880373604373)
 
 - Text Editors/IDEs <br> <br>
-[![](https://skillicons.dev/icons?i=vscode&perline=3)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=vscode,idea&perline=3)](https://discord.com/users/707630880373604373)
 
-- Social <br> <br>
-[![](https://skillicons.dev/icons?i=discord,instagram&perline=3)](https://skillicons.dev)
+- Programs & Social <br> <br>
+[![](https://skillicons.dev/icons?i=sketchup,autocad,figma,discord,instagram&perline=3)](https://discord.com/users/707630880373604373)
 
 
 ![Marco's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Marcooooo0ooo&show_icons=true&theme=algolia ) <br>
