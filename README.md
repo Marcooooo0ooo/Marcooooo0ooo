@@ -2,21 +2,18 @@
 
 * 🛠️ Currently Developer on [PixelTime](https://discord.gg/MUmMTZJ6PY)
 * ✉️ If you want to contact me:  [Discord](https://discord.com/users/707630880373604373)
-* 🎯 Learning CSS, Java
+* 🎯 Learning , Java
 
  ## :zap:Languages
 
 * Front-end Development <br>
-[![](https://skillicons.dev/icons?i=js,html&perline=3)](https://discord.com/users/707630880373604373)
+[![](https://skillicons.dev/icons?i=js&perline=3)](https://discord.com/users/707630880373604373)
 
 * Back-end Development <br>
-[![](https://skillicons.dev/icons?i=nodejs&perline=3)](https://discord.com/users/707630880373604373)
+[![](https://skillicons.dev/icons?i=nodejs,c&perline=3)](https://discord.com/users/707630880373604373)
 
 * Databases <br>
 [![](https://skillicons.dev/icons?i=mongodb,mysql&perline=3)](https://discord.com/users/707630880373604373)
-
-- Application Development <br>
-[![](https://skillicons.dev/icons?i=swift&perline=3)](https://discord.com/users/707630880373604373)
 
 - Project Management <br>
 [![](https://skillicons.dev/icons?i=github,git&perline=3)](https://discord.com/users/707630880373604373)
