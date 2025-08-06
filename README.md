@@ -1,8 +1,8 @@
 # <div align="center">Marco_ Developer</div>  
 
-* 🛠️ Currently Developer on [PixelTime](https://discord.gg/MUmMTZJ6PY)
+* 🛠️ Currently Developer on [SurfMC](https://discord.gg/xWgYnwz2tU)
 * ✉️ If you want to contact me:  [Discord](https://discord.com/users/707630880373604373)
-* 🎯 Learning , Java
+* 🎯 Learning: Java
 
  ## :zap:Languages
 
@@ -20,9 +20,6 @@
 
 - Text Editors/IDEs <br> <br>
 [![](https://skillicons.dev/icons?i=vscode,idea&perline=3)](https://discord.com/users/707630880373604373)
-
-- Programs & Social <br> <br>
-[![](https://skillicons.dev/icons?i=sketchup,autocad,figma,discord,instagram&perline=3)](https://discord.com/users/707630880373604373)
 
 
 ![Marco's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Marcooooo0ooo&show_icons=true&theme=algolia ) <br>
