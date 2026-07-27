@@ -1,6 +1,6 @@
 # <div align="center">Marco_ Developer</div>  
 
-* 🛠️ Currently SrAdmin on [FruitMC](https://discord.gg/fruitmc)
+* 🛠️ Currently SrAdmin on [TypeMC](https://discord.gg/typemc)
 * ✉️ If you want to contact me:  [Discord](https://discord.com/users/707630880373604373)
 * 🎯 Learning: Java
 
